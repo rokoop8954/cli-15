@@ -3,4 +3,8 @@
 15주차 보강_third_cli_exe1
 15주차 보강_fourth_cli_exe2
 15주차 보강-소스트리 gui와 cli 실습 비교
+HEAD
 cloud & github some hot fix add
+
+클라우드 및 깃허브 기능1추가
+77fb059 (15주차 보강- 새로운 클라우드 및 깃허브 기능1 추가)
